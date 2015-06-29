@@ -1,0 +1,17 @@
+.title {
+    background: #337ab7;
+    margin: 0 0 15px;
+}
+
+.title h2,
+.title p {
+    color: white;
+}
+
+.title p {
+    margin: 25px;
+}
+
+.logout {
+    padding: 10px;
+}
