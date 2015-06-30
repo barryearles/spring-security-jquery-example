@@ -7,10 +7,14 @@ This project provides a contrived example of spring security's login/logout feat
 
 ### Build
 
-./gradlew build
+    ./gradlew build
 
 ### Execute
 
-./gradlew bootRun
+
+    ./gradlew bootRun
 
 Navigate to http://localhost:8080/index.html in your browser.
+
+Username: user
+Password: user
