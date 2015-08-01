@@ -1,7 +1,6 @@
 
 #Spring Boot Security jQuery Example
 
----
 This project provides a contrived example of spring security's login/logout features with CSRF support enabled.  It uses Spring Boot Security, Spring Boot Web, jQuery, and Gradle for builds.
 
 
@@ -16,5 +15,6 @@ This project provides a contrived example of spring security's login/logout feat
 
 Navigate to http://localhost:8080/index.html in your browser.
 
-Username: user
-Password: user
+__Username__: user
+
+__Password__: user
